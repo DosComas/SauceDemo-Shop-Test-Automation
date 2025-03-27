@@ -1,8 +1,8 @@
-# SauceDemo Shop Test Automation
+# SauceDemo Shop Test Automation with Page Objects 
 
-This project is an automation testing suite for the SauceDemo Shop web application, built using **Playwright** and **TypeScript**. The tests cover critical workflows such as login, adding items to the cart, and completing the checkout process.
+This project is an automation testing suite for the SauceDemo Shop web application, built using **Playwright** and **TypeScript**. It leverages **Page Objects** to improve test reusability and maintainability.  
 
-The suite is configured to run tests across different browsers and screen sizes, with detailed HTML reports generated for easy tracking of test results.
+The tests cover critical workflows such as login, adding items to the cart, and completing the checkout process. The suite is configured to run across different browsers and screen sizes, with detailed HTML reports generated for easy tracking of test results. 
 
 # Setup Instructions
 
